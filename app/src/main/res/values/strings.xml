@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RxCode</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password (optional)</string>
+    <string name="action_sign_in" translatable="false">Sign in or register</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="error_invalid_email" translatable="false">This email address is invalid</string>
+    <string name="error_invalid_password" translatable="false">This password is too short</string>
+    <string name="error_incorrect_password" translatable="false">This password is incorrect</string>
+    <string name="error_field_required" translatable="false">This field is required</string>
+    <string name="permission_rationale" translatable="false">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="hint_username" translatable="false">Nombre de usuario</string>
+    <string name="hint_password" translatable="false">Contraseña</string>
+    <string name="text_button_login" translatable="false">Inicio de sesión</string>
+    <string name="dont_Have_Account" translatable="false">¿No, tienes cuenta?</string>
+    <string name="create_here" translatable="false">Crear una</string>
+    <string name="required">Campo requerido</string>
+    <string name="error_weak_password">Mas de 6 caracteres</string>
+    <string name="auth_failed">Intente de nuevo</string>
+    <string name="loading">Cargando</string>
+    <string name="hint_email">Correo electronico</string>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">14dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_horizontal_login">32dp</dimen>
+    <dimen name="textsize_donthaveaccount">16sp</dimen>
+    <dimen name="edittext_margin_create_account">10dp</dimen>
+    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="cornerradio_cardview">10dp</dimen>
+    <dimen name="textsize_username_card">25sp</dimen>
+    <dimen name="firstword_textsize_card">15sp</dimen>
+    <dimen name="timecard_marginleft_card">5dp</dimen>
+    <dimen name="ñole_marginto_card">10dp</dimen>
+    <dimen name="bottombar_height">70dp</dimen>
+    <dimen name="appbarlayout_height">256dp</dimen>
+    <dimen name="textsize_username_detail">25sp</dimen>
+    <dimen name="textsize_like_number_datail">15sp</dimen>
+    <dimen name="marginleft_secodword">7dp</dimen>
+    <dimen name="height_divider">3dp</dimen>
+    <dimen name="textsize_like_number_deetail">10dp</dimen>
+    <dimen name="paddingtop_title_imagen_detail">20dp</dimen>
+    <dimen name="padding_horizontal_textcontent_detail">35dp</dimen>
+    <dimen name="textsize_username_profile">30sp</dimen>
+    <dimen name="dimen_circle_imagen">160dp</dimen>
+    <dimen name="margintop_circle_image">20dp</dimen>
+    <dimen name="elevation_circle_imagen">0dp</dimen>
+    <dimen name="limit_y_circle_image">-200dp</dimen>
+    <dimen name="marginttop_circle_image_toolbar">0dp</dimen>
+    <dimen name="width_circle_image_toolbar">20dp</dimen>
+    <dimen name="textsize_username_toolbar_profile">18sp</dimen>
+    <dimen name="marginleft_username_toolbar_profile">80dp</dimen>
+    <dimen name="margintop_username_toolbar_profile">100dp</dimen>
+    <dimen name="limity_username_toolbar_profile">-200dp</dimen>
+    <dimen name="margintop_targety_usename_toolbar_profile">0dp</dimen>
+    <dimen name="separacion">8dp</dimen>
+</resources>
